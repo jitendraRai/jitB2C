@@ -1,0 +1,10 @@
+{
+    "azTenantId": "73c53d38-f235-4762-8bff-3f5e67a04352",
+    "azClientId": "ba98cf61-a839-4dc0-b644-3626289b7d76",
+    "azClientSecret": "D4_6-3t_si9B_1xaUg76jzN2TLOeXxVka-",
+    "kvVaultUri": "https://jitcontosovckv.vault.azure.net/",
+    "kvSigningKeyId": "sig_808068e2",
+    "kvRemoteSigningKeyId" : "issuerSigningKeyIon-808068e2-a34e-1d4f-0331-cb76799946e0",
+    "did": "did:ion:EiAeiqWeyIxeA7ueE09V3lmQcc2DlxZG7VZ6ZaAaoPiTMw:eyJkZWx0YSI6eyJwYXRjaGVzIjpbeyJhY3Rpb24iOiJyZXBsYWNlIiwiZG9jdW1lbnQiOnsicHVibGljS2V5cyI6W3siaWQiOiJzaWdfODA4MDY4ZTIiLCJwdWJsaWNLZXlKd2siOnsiY3J2Ijoic2VjcDI1NmsxIiwia3R5IjoiRUMiLCJ4IjoiOTZWeUlPLTQ3Qmx5bFRkMk5fYmF2eWc3YWo2SUJfOEoyMU9QbXdqeEFwZyIsInkiOiJWR184Y0dQUktHN3VUVTZJYWZZR254X1V5M18yNTVrX1VkaFI0OEhwdDd3In0sInB1cnBvc2VzIjpbImF1dGhlbnRpY2F0aW9uIiwiYXNzZXJ0aW9uTWV0aG9kIl0sInR5cGUiOiJFY2RzYVNlY3AyNTZrMVZlcmlmaWNhdGlvbktleTIwMTkifV0sInNlcnZpY2VzIjpbeyJpZCI6ImxpbmtlZGRvbWFpbnMiLCJzZXJ2aWNlRW5kcG9pbnQiOnsib3JpZ2lucyI6WyJodHRwczovL2ppdGNvbnRvc292Y3JhaS5jb20vIl19LCJ0eXBlIjoiTGlua2VkRG9tYWlucyJ9XX19XSwidXBkYXRlQ29tbWl0bWVudCI6IkVpRDM4R0pMLUcwa3htbGdJMmtvYzhNV1A3R2NVLXFKZ0J2cW92dG1CQkhMQ0EifSwic3VmZml4RGF0YSI6eyJkZWx0YUhhc2giOiJFaUFsZk1yenN1VXdGZmtKY0NZUHYtUE1xWnNqcjFiUkNXRVB5MHVzVWcxSEZnIiwicmVjb3ZlcnlDb21taXRtZW50IjoiRWlDYi1fRkxKZGZUWDBPWFlGemx6UlBZZlFtVV93YkZYemVtS3RBUVpOMDkwQSJ9fQ",
+    "resolverEndpoint": "https://beta.did.msidentity.com/v1.0/73c53d38-f235-4762-8bff-3f5e67a04352/verifiableCredential/contracts/jitninjaCredential"
+}
